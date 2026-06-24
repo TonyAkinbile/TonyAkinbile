@@ -30,7 +30,7 @@ My goal is to demonstrate the practical skills expected of IT Support Engineers,
 
 | Project | Purpose | Stack | Status |
 |----------|----------|----------|----------|
-| [Enterprise Active Directory Administration & Identity Management Lab](https://github.com/TonyAkinbile/Enterprise-active-directory-administration-identity-management-lab) | Simulates enterprise identity administration using Windows Server, Active Directory, DNS, Group Policy, organizational units, user management, and access control. | Windows Server 2022 • AD DS • DNS • GPO • Identity Management | ![In Progress](https://img.shields.io/badge/In_Progress-blue) |
+| [Enterprise Active Directory Administration & Identity Management Lab](https://github.com/TonyAkinbile/Enterprise-active-directory-administration-identity-management-lab) | Simulates enterprise identity administration using Windows Server, Active Directory, DNS, Group Policy, organizational units, user management, and access control. | Windows Server 2022 • AD DS • DNS • GPO • Identity Management | ![Complete](https://img.shields.io/badge/Complete-success) |
 | PowerShell Onboarding Automation | Automates enterprise user onboarding by provisioning Active Directory accounts, assigning users to organizational units, and generating secure passwords. | PowerShell • Active Directory • User Provisioning • Automation | ![Complete](https://img.shields.io/badge/Complete-success) |
 
 ---

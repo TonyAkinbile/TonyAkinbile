@@ -20,7 +20,7 @@ Throughout these projects, I configured and administered Windows Server infrastr
 
 The projects are designed to reflect real-world enterprise IT operations, including onboarding automation, account administration, access control, troubleshooting, and infrastructure management.
 
-My goal is to demonstrate the practical skills expected of IT Support Engineers, Technical Support Specialists, and Junior Systems Administrators working within enterprise environments.
+My goal is to demonstrate the practical skills expected of IT Support Engineers, Technical Support Specialists, and Junior System Administrators working within enterprise environments.
 
 ---
 
